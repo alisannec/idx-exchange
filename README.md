@@ -6,7 +6,7 @@ The objective is to develop an ML model to predict the close price (the final tr
 
 ds52
 
-## How to Run
+## Installation
 
 First use pip to install pandas.
 
@@ -14,3 +14,8 @@ First use pip to install pandas.
 %pip install pandas
 ```
 
+Install matplotlib to view visualizations.
+
+```bash
+%pip install matplotlib
+```
